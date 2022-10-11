@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladyslav
 - 👀 I’m interested in ...c++
-- 🌱 I’m currently learning ...english and c++.
+- 🌱 I’m currently learning ... and c++.
 - 💞️ I’m looking to collaborate on ...programer or tester manual
 - 📫 How to reach me ...krytoiman007@gmail.com +48578281***
 
